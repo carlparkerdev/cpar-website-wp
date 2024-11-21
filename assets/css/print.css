@@ -1,0 +1,10 @@
+/*
+ *   STYLESHEET (Print)
+*/
+
+
+@media print {
+
+     body { background-color: #ffffff !important; }
+
+}
