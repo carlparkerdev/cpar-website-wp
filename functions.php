@@ -22,6 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN
      define( 'CPAR_COMPONENTS', trailingslashit( 'components' ) );
      define( 'CPAR_INCLUDES', trailingslashit( 'includes' ) );
      define( 'CPAR_LAYOUTS', trailingslashit( 'layouts' ) );
+     define( 'CPAR_PARTIALS', trailingslashit( 'partials' ) );
 
 
 /*

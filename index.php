@@ -15,7 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN ?>
 
      <main data-cpar-region="main">
 
-          <?php the_content(); ?>
+          <?php get_template_part( CPAR_PARTIALS . 'content' ); ?>
 
      </main>
 
