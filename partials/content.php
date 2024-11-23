@@ -7,7 +7,7 @@
 if ( ! defined( 'ABSPATH' ) ) : exit; endif; // SILENCE IS GOLDEN ?>
 
 
-<section id="Partial-Content">
+<section data-cpar-partial="Content">
 
      <?php the_content(); ?>
 

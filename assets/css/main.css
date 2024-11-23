@@ -339,3 +339,12 @@ video {
 
 
 /* -- CUSTOM STYLING -- */
+
+[data-cpar-partial="Content"] {}
+
+     [data-cpar-partial="Content"] ul { margin-bottom: 1.5rem; }
+
+          [data-cpar-partial="Content"] li {
+               list-style-type: disc;
+               margin-left: 2.5rem;
+               line-height: 1.5; }
